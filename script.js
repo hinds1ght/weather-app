@@ -30,3 +30,8 @@ function display(res) {
     stat.textContent = `Weather: ${res.current.condition.text}`
     icon.src = http.concat(res.current.condition.icon);
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    takeData('Manila')
+        .then(r => display(r));
+});
