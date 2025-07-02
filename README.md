@@ -12,6 +12,10 @@ A simple weather application built with vanilla JavaScript that fetches and disp
   - Weather icon
 - Default city on load: **Manila**
 
+## Demo
+
+View it live: [https://hinds1ght.github.io/weather-app/]
+
 ## How It Works
 
 1. User enters a city name and submits the form.
