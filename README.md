@@ -14,7 +14,7 @@ A simple weather application built with vanilla JavaScript that fetches and disp
 
 ## Demo
 
-View it live: [https://hinds1ght.github.io/weather-app/]
+View it live [here](https://hinds1ght.github.io/weather-app/)
 
 ## How It Works
 
